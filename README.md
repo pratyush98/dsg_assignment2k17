@@ -1,5 +1,5 @@
 # dsg_assignment2k17
-It includes analyzing the mushroom dataset and predicting its edibility
+It includes analyzing the mushroom dataset and predicting its edibility(please download the ipnb notebook to view it)
 
 PROBLEM STATEMENT:
 
