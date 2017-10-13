@@ -1,2 +1,3 @@
 # dsg_assignment2k17
-It includes analysising
+It includes analyzing the mushroom dataset and predicting its edibility
+
